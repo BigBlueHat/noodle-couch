@@ -1,0 +1,35 @@
+{
+  "name": "noodle-couch",
+  "version": "0.0.1",
+  "description": "Noodle.js screen scraping managed via Apache CouchDB",
+  "main": "index.js",
+  "dependencies": {
+    "couchdb-push": "^2.0.0",
+    "glob": "^5.0.12",
+    "gulp": "^3.9.0",
+    "noodlejs": "^0.3.2",
+    "pouchdb": "^3.6.0",
+    "yargs": "^3.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BigBlueHat/noodle-couch.git"
+  },
+  "keywords": [
+    "screen",
+    "scraping",
+    "noodlejs",
+    "couchdb",
+    "html"
+  ],
+  "author": "BigBlueHat <byoung@bigbluehat.com>",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/BigBlueHat/noodle-couch/issues"
+  },
+  "homepage": "https://github.com/BigBlueHat/noodle-couch#readme"
+}
